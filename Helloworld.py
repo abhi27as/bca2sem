@@ -1,3 +1,3 @@
-#python program tp print "Hello world"
+#python program to print "Hello world"
 import sys
 sys.stdout.write("Hello world")
